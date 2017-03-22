@@ -1,2 +1,5 @@
 # hello-world
-Learn github from beginning
+hello word!
+
+## Introduce yourself
+I'M CHOLE, I'M LARNING HOW TO USE GITHUB HERE.
